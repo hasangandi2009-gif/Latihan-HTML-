@@ -4,7 +4,8 @@ body{
     font-family: Arial;
 }
 nav{
-    backround-color: #222;
+    backround-color:none;
+    color: white;
     padding: 10px;
 }
 nav a{
